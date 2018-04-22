@@ -46,6 +46,9 @@ Page({
       }
       t_arr.push(t_foodList[i]);
     }
+    this.setData({
+      foodList:this.data.foodList,
+    })
   },
 
   //关闭食品详情弹窗
