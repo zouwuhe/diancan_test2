@@ -21,3 +21,5 @@
 ### 项目截图：
 
 https://www.getweapp.com/project?projectId=583291e9bb2538f8186c706d
+
+版本比较简单，并且有些bug，不太可用
